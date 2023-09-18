@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://cosmogenics.wordpress.com/](https://cosmogenics.wordpress.com/)
 
-- 💬 Ask me about **Flutter, Data Analytics and AI**
+- 💬 Ask me about **Flutter, UX/UI designing, Data Analytics and AI/ML**
 
 - 📫 How to reach me **rajvaidhyag@gmail.com**
 
