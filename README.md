@@ -1,20 +1,39 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQG6OrjDHI_6pw/profile-displaybackgroundimage-shrink_350_1400/0/1690457467874?e=1700697600&v=beta&t=3cZjvgp1f84z5e7hX2GZ5vaofNoIuoJne5_4w2y3xGA)
-<h1 align="center">Hi 👋, I'm Gyanendra Rajvaidhya!</h1>
-<h3 align="center">Flutter Developer • Designer • Enthusiast</h3>
+# 👋 Hi, I’m Gyanendra Rajvaidhya
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanraj06&label=Profile%20views&color=0e75b6&style=flat" alt="gyanraj06" /> </p>
+🚀 Product-minded engineer | Full-stack dev | Startup Enthusiast   
 
-- 🔭 I’m currently working on **Flutter and AI/ML**
+I work at the intersection of **product strategy & code** — turning ideas into shipped products. Pushing products from 0 to 1.  
+Currently building **[Trip Pe Chalo](https://www.trippechalo.in/)** (an adventure & travel aggregation platform) and other side projects.  
 
-- 🌱 I’m currently learning **.NET frameworks and C#**
+---
 
-- 👯 I’m looking to collaborate on **interesting projects**
+## 🧑‍💻 What I Do
+- **Product Leadership** → Defining vision, MVP scope, and product strategy  
+- **Full-stack Development** → Supabase, React, Node, Next.js, APIs  
+- **Systems Thinking** → From databases to frontend, ensuring smooth scalability  
+- **Experimentation** → Rapid prototyping, validating ideas, iterating fast  
 
-- 👨‍💻 All of my projects are available at [https://github.com/gyanraj06](https://github.com/gyanraj06)
+---
 
-- 📝 I regularly write articles on [https://cosmogenics.wordpress.com/](https://cosmogenics.wordpress.com/)
+## ⚡ Tech Stack
+- **Frontend** → React, Next.js, TailwindCSS, Flutter  
+- **Backend** → Node.js, Supabase, PostgreSQL  
+- **Infra** → Vercel, n8n, LangChain, REST APIs  
+- **Other** → Product design, strategy, GTM experiments, Project management 
 
-- 💬 Ask me about **Flutter, UX/UI designing, Data Analytics and AI/ML**
+---
 
-- 📫 How to reach me **rajvaidhyag@gmail.com**
+## 🌱 Current Focus
+- Scaling **Trip Pe Chalo** into a community-driven adventure discovery platform  
+- Experimenting with **MCPs, Geo Spatial Projects, and AI workflows**  
 
+
+---
+
+## 📫 Let’s Connect
+- 🌍 [LinkedIn](https://linkedin.com/in/gyanendrarajvaidhya)  
+- 📧 [Email](mailto:rajvaidhyag@gmail.com)  
+
+---
+
+✨ *Building products is half vision, half code — I do both.*
