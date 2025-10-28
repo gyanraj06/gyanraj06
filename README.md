@@ -3,7 +3,7 @@
 🚀 Product-minded engineer | Full-stack dev | Startup Enthusiast   
 
 I work at the intersection of **product strategy & code** — turning ideas into shipped products. Pushing products from 0 to 1.  
-Currently building **[Trip Pe Chalo](https://www.trippechalo.in/)** (an adventure & travel aggregation platform) and other side projects.  
+Currently building **[Trip Pe Chalo](https://www.company.trippechalo.in/)** (an adventure & travel aggregation platform) and other side projects.  
 
 ---
 
